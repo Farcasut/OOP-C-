@@ -1,0 +1,15 @@
+
+Examen/.vs/Examen/project-colors.json
+Examen/.vs/Examen/v17/.suo
+*.db
+*.ipch
+*.sln
+*.vcxproj
+*.filters
+*.user
+*.recipe
+*.ilk
+*.log
+*.tlog
+*.json
+*.suo

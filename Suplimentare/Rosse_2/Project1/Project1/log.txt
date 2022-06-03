@@ -1,0 +1,60 @@
+Primul Exemplu:
+Al 2-lea Exemplu:
+Data2::Data2(n, num)
+Data2::~Data2()
+t = 12
+Data2::GetName()
+name = Ocravian
+Al 3-lea Exemplu:
+Data3::Data3(int)
+Data3::operator[]()
+Data3::operator[]()
+Data3::operator[]()
+Data3::operator[]()
+Data3::operator[]()
+Data3::Data3(int)
+Data3::GetCrtValue()
+crt value = 0
+Al 4-lea Exemplu:
+Manual::Manual()
+Manual::Set() type: [int], value:[]
+Manual::Get()
+m1=100
+Manual::Manual()
+Manual::Set() type: [char], value:[]
+Manual::Get()
+m2=A
+Manual::Manual()
+Manual::Set() type: [double], value:[]
+Manual::Get()
+m3=41.675
+Manual::Manual()
+Manual::Set() type: [class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >], value:[]
+Manual::Get()
+m4=Hello POO
+Manual::Manual()
+Manual::Set() type: [int], value:[]
+Manual::Get()
+mm=333
+Manual::~Manual()
+Baza::Baza()
+Derivat::Derivat()
+Derivat::Calcul()
+Derivat::Get()
+calcul = 65
+Baza::Baza()
+Derivat::Derivat()
+Derivat::Calcul()
+Baza::Get()
+calcul derivat = 100
+Derivat::~Derivat()
+Baza::~Baza()
+Derivat::~Derivat()
+Baza::~Baza()
+Manual::~Manual()
+Manual::~Manual()
+Manual::~Manual()
+Manual::~Manual()
+Data3::~Data3()
+Data3::~Data3()
+Data2::~Data2()
