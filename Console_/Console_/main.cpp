@@ -20,7 +20,7 @@ int main()
 	while(1)
 	{
 		
-
+		cons->ChangeColorText(i % 15 + 1);
 		switch (_getch())
 		{
 		case 'a':
